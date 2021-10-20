@@ -1,1 +1,1 @@
-A library management web app developpement in C# ASP.Net
+A library management web app developped in C# ASP.Net
